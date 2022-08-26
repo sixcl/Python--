@@ -6,6 +6,4 @@
 输出描述：
 第一行输出字符串Hello World!，第二行输出字符串Hello Nowcoder!
 '''
-str1 = 'Hello World!'
-str2 = 'Hello Nowcoder!'
-print(str1,str2,sep='\n')
+print(input())
